@@ -1,6 +1,5 @@
-
-<title>YouTube Clone UI - README</title>
-    <h1>YouTube Clone UI</h1>
+ 
+   <h1>YouTube Clone UI</h1>
     <p>This is a simple <strong>YouTube Clone UI</strong> built using <strong>HTML and CSS</strong>. It replicates the front-end design of YouTube with a dark theme.</p>
     <h2>📌 Features</h2>
     <ul>
@@ -30,8 +29,6 @@
             </ul>
         </li>
     </ol>
-    <h2>📸 Screenshot</h2>
-    <img src="./pic/Screenshot (82).png" alt="YouTube Clone UI Screenshot" width="600">
     <h2>📜 License</h2>
     <p>This project is <strong>open-source</strong> and available under the <strong>MIT License</strong>.</p>
 </body>
