@@ -18,7 +18,7 @@
     <h2>🚀 How to Run</h2>
     <ol>
         <li><strong>Clone the repository:</strong>
-            <pre><code>git clone https://github.com/yourusername/youtube-clone-ui.git</code></pre>
+            <pre><code>git clone https://github.com/AsuraJOD321/yt.git</code></pre>
         </li>
         <li><strong>Open the <code>index.html</code> file in a browser:</strong>
             <ul>
@@ -31,7 +31,7 @@
         </li>
     </ol>
     <h2>📸 Screenshot</h2>
-    <img src="screenshot.png" alt="YouTube Clone UI Screenshot" width="600">
+    <img src="./pic/Screenshot (82).png" alt="YouTube Clone UI Screenshot" width="600">
     <h2>📜 License</h2>
     <p>This project is <strong>open-source</strong> and available under the <strong>MIT License</strong>.</p>
 </body>
